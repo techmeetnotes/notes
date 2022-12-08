@@ -10,7 +10,7 @@ Constraints:
 * History is in a git repo (excludes MediaWiki, etc.)
 
 Everybody's top preference:
-* bouncepaw:
+* bouncepaw: I don't really care about git, I just want it to be easy to read and write.
 * Ciprian: a git repo containing immutable published long-form documents in
   CommonMark.
 * Kartik: a git repo containing plain text notes with relationships (links)
@@ -20,7 +20,8 @@ Everybody's top preference:
 * Luke:
 
 Everybody's goals:
-* bouncepaw:
+* bouncepaw: See where this goes to. I would be delighted if this ends up as a cool
+  repository with cool information, a maze of information.
 * Ciprian: Volume control so that conversations are easy to catch up on after
   the fact.
 * Kartik: Iterative summarization of what we learned, so that conversations
