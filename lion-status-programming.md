@@ -1,6 +1,8 @@
-## What Lion's up to
+## What Lion's up to (programming-wise)
 
 2022-12-07
+
+More details on some of [Lion's projects](lion-status.md)
 
 [Technical\_Agenda\_2023.pdf](lion/202221207-Technical_Agenda_2023.pdf)
 
