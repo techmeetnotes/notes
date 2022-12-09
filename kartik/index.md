@@ -42,7 +42,7 @@ Things I _don't_ care about:
   style guides, etc. They're ineffectual with the wrong programming habits,
   and they're unimportant with the right habits.
 
-Some recent demos:
+Some recent projects:
 * A text editor where you can seamlessly insert line drawings.
   ![screenshot of a text editor with text and drawings](assets/gravity.png)
 * [A note-taking app](pensieve.md) made of many text editor widgets arranged
@@ -51,3 +51,8 @@ Some recent demos:
   without needing any additional tools to browse source code, browse graphical
   debug logs of the program, etc.
 * The ability to [modify such apps without restarting them](https://spectra.video/w/wkDB5fsjBNBbsqKXGhGzwT).
+
+The goal isn't just research prototypes but software intended to be used all
+the time. So far the first project (the text editor) seems robust enough to
+meet that bar. It is missing features, but the features it does have seem
+reliable.
