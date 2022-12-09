@@ -3,6 +3,6 @@
 Everybody has one.
 
 * [bouncepaw](https://melanocarpa.lesarbr.es)
-* [Kartik](https://git.sr.ht/~akkartik/pensieve.love)
+* [Kartik](kartik/pensieve.md)
 * [Lion c. 2003](https://users.speakeasy.net/~lion/nb/) (ebook)
 * [Lion](https://communitywiki.org/wiki/MiniCubes)
