@@ -1,5 +1,6 @@
 ## Ciprian's library
 
+* 2021-09-05: [storing tree structures on file systems](2021/6697ebb3.md)
 * 2021-09-11: [Data as code](2021/19817cd9.md)
 * 2021-09-11: [Entities, links, data](2021/1ab930b7.md)
 * 2021-09-11: [The `...` symlinks trick for "local aliasing"](2021/4a56cfca.md)
