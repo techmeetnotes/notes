@@ -2,12 +2,12 @@
 
 2022-12-07
 
-[Technical\_Agenda\_2023.pdf](Lion/202221207-Technical_Agenda_2023.pdf)
+[Technical\_Agenda\_2023.pdf](lion/202221207-Technical_Agenda_2023.pdf)
 
 That's "Technical Agenda 2023."  It's primarily a listing of major projects that I'd like to program, with a 5-10 year time horizon from today.  That is, through my being 50-55 years old.  I have no expectation that I will implement all, or even most of these.  My expectation is that I will implement some of them.  It is also my expectation that the list will get longer, and longer, and longer.  And then at a certain point, it'll stop, because I'll be writing "Technical Agenda 2024."  Or, as per M26, it will become "computerized."  That is, stored in a database that I interact with through a GUI, and publish to the web somehow.
 
 If I were to draw attention to specific entries, they would include:
-* M4 -- [FileTalk](Lion/FileTalk.md)
+* M4 -- [FileTalk](lion/FileTalk.md)
 * M6 -- Tk Framework (GUI framework I've been developing) -- because as Ciprian pointed out to me a year ago, the GUI environment is absolutely critical
 * M10 -- Graphical Python Editing Environment
 * M15 -- Cross-Network FileTalk Bridge -- because I want to be able to collaborate with y'all more easily!
@@ -16,7 +16,7 @@ If I were to draw attention to specific entries, they would include:
 
 I've also started collecting a document that I call "Programming Problems and Approaches."  I don't know if it has a future, but I think it's very interesting to me, in the present.  I keep notes on programming problems and approaches in my paper notebooks, too.  But I want to see if computerizing records of reasoning will be valuable.  I'll upload it here in a moment.
 
-[Programming\_Problems\_and\_Approaches.pdf](Lion/202221207-Programming_Problems_and_Approaches.pdf)
+[Programming\_Problems\_and\_Approaches.pdf](lion/202221207-Programming_Problems_and_Approaches.pdf)
 
 I think -- I realized that there are certain problems that I come back to over and over again, and the reasoning through the logic of it is as important to me as the code that embodies a particular line of reasoning.  I'm often going back to old decisions, old approaches, and finding fresh paths through them.  But some times I look through old code, and I think, "Oh, wow, that's very clever what I did there -- and I'd completely forgotten about that way of doing things."  I want to see if taking the "conversation" back to the conceptual plane, and organizing it from the conceptual plane, away from the "code" plane, (where I have to decipher what I did,) will have an impact on my development.
 

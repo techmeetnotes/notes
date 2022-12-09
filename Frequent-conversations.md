@@ -2,7 +2,7 @@
 
 In no order:
 
-* We like talking about our programming projects: bouncepaw Ciprian Kartik [Lion](LionStatus-Programming.md) Luke
+* We like talking about our programming projects: bouncepaw Ciprian Kartik [Lion](lion-status-programming.md) Luke
 * [Where to host this](hosting.md) :D
 * Note-taking software
 * Rendering text from pixels
