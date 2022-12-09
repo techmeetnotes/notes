@@ -7,6 +7,6 @@ In no order:
 * [Where to host this](hosting.md) :D
 * Note-taking software
 * Rendering text from pixels
-* Creating intentional communities
+* [Creating intentional communities](lion/intentional-communities.md)
 * Software education
 * AI
